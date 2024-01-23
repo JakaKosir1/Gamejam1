@@ -74,7 +74,7 @@
     <a href="http://ers.scv.si" target="_blank">
         <img src="slike/scv.png" alt="Logo" height="40">
     </a>
-    <h1>GameJam Information</h1>
+    <h1>Informacije o dogodku</h1>
 </header>
 
 <section>
